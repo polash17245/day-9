@@ -5,6 +5,9 @@
     background: rgba(0,0,0,0.2);
     bottom: 200px;
 }
+.card-default-height{
+    height: 300px;
+}
 .h-200{ height: 200px}
 .h-50{ height: 50px}
 .h-600{ height: 600px}
